@@ -1,0 +1,2 @@
+# Clonetest
+Testing a clone
